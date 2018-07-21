@@ -3,11 +3,11 @@ This is a curated and atively maintained listing of datasets for learning and so
 With kind support from [dataniX](www.datanix.co.uk/blog)
 
 **Key**  
-:white_check_mark: - Up-to-date
+:heavy_check_mark: - Up-to-date
  
-:white_circle: - Usable but can be improved
+:heavy_minus_sign: - Usable but can be improved
 
-:red_circle:  - Call for data (we need this data can you help?)
+:x:  - Call for data (we need this data can you help?)
 
 **How can I add to this list or make a correction**
 -----------
