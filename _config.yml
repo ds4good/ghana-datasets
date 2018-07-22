@@ -1,5 +1,6 @@
 theme: jekyll-theme-leap-day
-title-img: white-blank-button.jpg
+title-img: "white-blank-button.jpg"
+navbar-img: "/white-blank-button.jpg"
 
 plugins:
   - jemoji
