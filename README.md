@@ -10,16 +10,15 @@ With kind support from [dataniX](www.datanix.co.uk/blog)
 
 
 **How can I add to this list or make a correction?**  
-To add to this listing, simply raise an issue and describe your correction/addition including your motivation for the change.  
+To add to this listing, simply **raise an issue** and describe your correction/addition, including your motivation for the change.  
 
 
 ## Agriculture  
 
 
 ## Education  
-:red_circle: [WAEC Results](www.com)  
-:red_circle: [ICT penetration in SHS](www.com)  
-
+:red_circle: <a href="www.com" title="WAEC Results dataset from 2012">WAEC Results</a>  
+:red_circle: <a href="www.com" title="Explores the availability of ICT Labs for training"> ICT penetration in SHS</a>
 
 ## Healthcare  
 
