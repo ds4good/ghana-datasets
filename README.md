@@ -41,6 +41,7 @@ To add to this listing, simply **raise an issue** and describe your correction/a
 :red_circle:<a href="https:www.datanix.co.uk/blog" target ="_blank" title ="Peacefm News stories from 2012">Peacefm News Dataset<a>  
 
 ## Telecommunications & ICT  
+:red_circle:<a href="https:www.datanix.co.uk/blog" target ="_blank" title ="Coverage of Fixed & Mobile Broadband in Ghana">Broadband coverage dataset<a>
 
 
 ## Tourism  
