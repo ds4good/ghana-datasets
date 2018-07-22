@@ -1,11 +1,12 @@
 theme: jekyll-theme-leap-day
 title-img: "white-blank-button.jpg"
 navbar-img: "/white-blank-button.jpg"
+
 social-network-links:
   email: "someone@example.com"
   facebook: daattali
   github: daattali
   twitter: daattali
 
-#plugins:
-#  - jemoji
+plugins:
+  - jemoji
