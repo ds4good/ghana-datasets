@@ -18,7 +18,7 @@ To add to this listing, simply **raise an issue** and describe your correction/a
 
 ## Education  
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="WAEC results dataset from 2010">WAEC Examination Dataset<a>  
-:red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Explore the availability of ICT labs in SHS for computer training">ICT penetration in SHS<a>  
+:red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Explore the availability of ICT labs in schools for computer training">ICT penetration in Schools<a>  
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Schools under trees over time">Ghana Schools Under Trees Dataset<a>  
 
 ## Geographic & Satellite  
