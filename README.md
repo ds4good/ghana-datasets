@@ -1,5 +1,5 @@
 # Welcome to ghana-datasets
-This is a curated and atively maintained listing of datasets for learning and social good.
+This is a curated and atively maintained listing of datasets for learning and social good.  
 With kind support from [dataniX](www.datanix.co.uk/blog)
 
 **Key**  
@@ -13,16 +13,19 @@ With kind support from [dataniX](www.datanix.co.uk/blog)
 
 **How can I add to this list or make a correction**
 -----------
-To add to this listing, simply raise an issue and describe your correction/addition including your motivation for the change.
+To add to this listing, simply raise an issue and describe your correction/addition including your motivation for the change.  
 
-## Agriculture
 
-## Education
+## Agriculture  
+
+
+## Education  
 :x: [WAEC Results](www.com)  
 
 :x: [ICT penetration in SHS](www.com)  
 
-## Healthcare 
+
+## Healthcare  
 
 
 ## News dataset  
@@ -30,12 +33,12 @@ To add to this listing, simply raise an issue and describe your correction/addit
 
 :x: [joynews dataset](www.datanix.co.uk/blog)  
 
-## Geographic & Satellite
+## Geographic & Satellite  
 :x: [Ghana boundaries dataset](www.com)  
 
 :x: [Ghana google earth satellite image](www.com)  
 
-## Government
+## Government  
 :heavy_check_mark: [State of the nation address](www.datanix.co.uk/blog)   
 
 :heavy_minus_sign: [Elections dataset](www.datanix.co.uk/blog)  
