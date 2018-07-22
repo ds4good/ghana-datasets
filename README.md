@@ -34,6 +34,7 @@ To add to this listing, simply **raise an issue** and describe your correction/a
 
   
 ## Healthcare 
+:red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana health care infrastructure">Ghana Hospitals Dataset<a>  
 
 ## News dataset  
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Citi News stories from 2012">Citi News Dataset<a>  
