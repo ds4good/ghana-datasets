@@ -3,14 +3,13 @@ This is a curated and atively maintained listing of datasets for learning and so
 With kind support from [dataniX](www.datanix.co.uk/blog)
 
 **Key**  
-Up-to-date
-Usable but can be improved
-Call for data (we need this data can you help?)  
+:heavy_check_mark: Up-to-date  
+:seedling: Usable but can be improved  
+:x: Call for data (we need this data can you help?)  
 
 
 
 **How can I add to this list or make a correction**
------------
 To add to this listing, simply raise an issue and describe your correction/addition including your motivation for the change.  
 
 
