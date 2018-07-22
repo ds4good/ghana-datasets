@@ -3,9 +3,11 @@ This is a curated and atively maintained listing of datasets for learning and so
 With kind support from [dataniX](www.datanix.co.uk/blog)
 
 **Key**  
-:heavy_check_mark: - Up-to-date
+<image src="https://4vector.com/i/free-vector-button-green-clip-art_116758_Buttongreen_clip_art_medium.png" height=20 width =20>  </image>  Up-to-date
  
-:seedling: - Usable but can be improved
+<image src="https://www.iconspng.com/images/simple-glossy-circle-button-red/simple-glossy-circle-button-red.jpg" height=20 width =20>  </image>  Testing Image 
+
+<image src="http://www.clker.com/cliparts/e/i/5/h/r/P/orange-circle-icon-md.png" height=20 width =20> </image> - Usable but can be improved
 
 :x:  - Call for data (we need this data can you help?)  
 
