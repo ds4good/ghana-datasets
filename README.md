@@ -3,7 +3,7 @@ This is a curated and atively maintained listing of datasets for learning and so
 With kind support from [dataniX](www.datanix.co.uk/blog)
 
 **Key**  
-:white_circle: Up-to-date  
+:large_blue_circle: Up-to-date  
 :seedling: Usable but can be improved  
 :red_circle: Call for data (we need this data can you help?)  
 
@@ -33,7 +33,7 @@ To add to this listing, simply raise an issue and describe your correction/addit
 :red_circle: [Ghana google earth satellite image](www.com)  
 
 ## Government  
-:white_circle: [State of the nation address](www.datanix.co.uk/blog)   
+:large_blue_circle: [State of the nation address](www.datanix.co.uk/blog)   
 :seedling: [Elections dataset](www.datanix.co.uk/blog)  
 
 ## Telecommunications & ICT  
