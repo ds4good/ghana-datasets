@@ -17,23 +17,25 @@ To add to this listing, simply **raise an issue** and describe your correction/a
 
 
 ## Education  
-<a href="www.com" title="WAEC Results dataset from 2012"> :red_circle: WAEC Results </a>  
-<a href="www.com" title="Explores the availability of ICT Labs for training"> :red_circle: ICT penetration in SHS</a>
+:red_circle:<a href="www.com" title="WAEC Results dataset from 2012"> WAEC Results </a>  
+:red_circle:<a href="www.com" title="Explores the availability of ICT Labs for training"> ICT penetration in SHS</a>
 
 ## Healthcare  
 
 
 ## News dataset  
-:red_circle: [citinews dataset](www.datanix.co.uk/blog)  
-:red_circle: [joynews dataset](www.datanix.co.uk/blog)  
+:red_circle: <a href="www.datanix.co.uk/blog" title ="a collection of citi news stories from 2012"> Citi News dataset </a> 
+:red_circle: <a href="www.datanix.co.uk/blog" title ="a collection of citi news stories from 2012"> Joy News dataset </a>
+  
 
 ## Geographic & Satellite  
-:red_circle: [Ghana boundaries dataset](www.com)  
-:red_circle: [Ghana google earth satellite image](www.com)  
+:red_circle: <a href="www.datanix.co.uk/blog" title ="a collection of citi news stories from 2012">Ghana boundaries dataset</a>
+:red_circle: <a href="www.datanix.co.uk/blog" title ="a collection of citi news stories from 2012">Ghana google earth satellite image </a>
+  
 
 ## Government  
-:large_blue_circle: [State of the nation address](www.datanix.co.uk/blog)   
-:seedling: [Elections dataset](www.datanix.co.uk/blog)  
+:large_blue_circle: <a href="www.datanix.co.uk/blog" title ="Ghana State of The Nation Addresses from 2011"> State of the nation address </a> 
+::seedling:: <a href="www.datanix.co.uk/blog" target ="_blank" title ="Ghanas Parliamentary & Presidential elections dataset"> Ghana Elections dataset </a>  
 
 ## Telecommunications & ICT  
 
