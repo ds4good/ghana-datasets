@@ -7,5 +7,5 @@ social-network-links:
   github: daattali
   twitter: daattali
 
-plugins:
-  - jemoji
+#plugins:
+#  - jemoji
