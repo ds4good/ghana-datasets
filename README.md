@@ -5,7 +5,7 @@ With kind support from [dataniX](www.datanix.co.uk/blog)
 **Key**  
 :heavy_check_mark: - Up-to-date
  
-:heavy_minus_sign: - Usable but can be improved
+:seedling: - Usable but can be improved
 
 :x:  - Call for data (we need this data can you help?)  
 
@@ -41,7 +41,7 @@ To add to this listing, simply raise an issue and describe your correction/addit
 ## Government  
 :heavy_check_mark: [State of the nation address](www.datanix.co.uk/blog)   
 
-:heavy_minus_sign: [Elections dataset](www.datanix.co.uk/blog)  
+:seedling: [Elections dataset](www.datanix.co.uk/blog)  
 
 ## Telecommunications & ICT  
 
