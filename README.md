@@ -4,7 +4,7 @@ With kind support from [dataniX](www.datanix.co.uk/blog)
 
 **Key**  
 :large_blue_circle: Up-to-date  
-:seedling: Usable but can be improved  
+:seedling: Can be improved  
 :red_circle: Call for data (we need this data can you help?)  
 
 
@@ -17,8 +17,8 @@ To add to this listing, simply **raise an issue** and describe your correction/a
 
 
 ## Education  
-:red_circle: <a href="www.com" title="WAEC Results dataset from 2012">WAEC Results</a>  
-:red_circle: <a href="www.com" title="Explores the availability of ICT Labs for training"> ICT penetration in SHS</a>
+<a href="www.com" title="WAEC Results dataset from 2012"> :red_circle: WAEC Results </a>  
+<a href="www.com" title="Explores the availability of ICT Labs for training"> :red_circle: ICT penetration in SHS</a>
 
 ## Healthcare  
 
