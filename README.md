@@ -26,7 +26,7 @@ To add to this listing, simply **raise an issue** and describe your correction/a
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana satellite imagery from 2000">Ghana satellite earth<a>  
   
 ## Government  
-:seedling:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana Parliamentry & Presidential election results from 1992">Election Data<a>  
+:seedling:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana Parliamentry & Presidential election results from 1992">Election Dataset<a>  
 :large_blue_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana State of The Nation address from 2000">Ghana State of the Nation Address<a>  
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana Road accident fatalities and locations">Ghana Accident Dataset<a>   
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana crimes by location">Ghana Crime Dataset<a>  
@@ -41,11 +41,11 @@ To add to this listing, simply **raise an issue** and describe your correction/a
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Peacefm News stories from 2012">Peacefm News Dataset<a>  
 
 ## Telecommunications & ICT  
-:red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Coverage of Fixed & Mobile Broadband in Ghana">Broadband coverage dataset<a>
+:red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Coverage of Fixed & Mobile Broadband in Ghana">Broadband coverage Dataset<a>
 
 
 ## Tourism  
-:red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Dataset of GPS Location and GPOST address fo interesting tourist locations is Ghana">Ghana Tourist Destination GPost dataset<a>  
+:red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Dataset of GPS Location and GPOST address fo interesting tourist locations is Ghana">Ghana Tourist Destination GPost Dataset<a>  
 
 
 # Useful links
