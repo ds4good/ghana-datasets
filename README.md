@@ -3,9 +3,9 @@ This is a curated and atively maintained listing of datasets for learning and so
 With kind support from [dataniX](www.datanix.co.uk/blog)
 
 **Key**  
-:heavy_check_mark: Up-to-date  
-:seedling: Usable but can be improved  
-:heavy_exclamation_mark: Call for data (we need this data can you help?)  
+:white_circle: Up-to-date  
+:black_circle: Usable but can be improved  
+:red_circle: Call for data (we need this data can you help?)  
 
 
 
@@ -17,8 +17,8 @@ To add to this listing, simply raise an issue and describe your correction/addit
 
 
 ## Education  
-:heavy_exclamation_mark: [WAEC Results](www.com)  
-:heavy_exclamation_mark: [ICT penetration in SHS](www.com)  
+:heavy_multiplication_x: [WAEC Results](www.com)  
+:heavy_multiplication_x: [ICT penetration in SHS](www.com)  
 
 
 ## Healthcare  
