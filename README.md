@@ -9,7 +9,7 @@ With kind support from [dataniX](www.datanix.co.uk/blog)
 
 
 
-**How can I add to this list or make a correction**
+**How can I add to this list or make a correction**  
 To add to this listing, simply raise an issue and describe your correction/addition including your motivation for the change.  
 
 
