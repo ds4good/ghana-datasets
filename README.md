@@ -10,13 +10,12 @@ With kind support from [dataniX](www.datanix.co.uk/blog)
 
 ### How can I add to this list?  
 &nbsp;&nbsp;&nbsp;&nbsp; To add to this listing use this [form](https://goo.gl/forms/EzSSfe1zxgt0AYLE3)
-### How can I make a correction/suggestion
+### How can I make a correction
 &nbsp;&nbsp;&nbsp;&nbsp; simply **raise an issue** on github :point_up:.  
 #### Join our [slack forum](https://join.slack.com/t/ds4good/shared_invite/enQtNDAzNTU5NDMwMzA3LWI5NDFmMTM5NjE2ZTY5M2YxODY3YTM4OWRhNzRjYjNjY2ZhMTBkYjhmNmYxODBkMmUzZjYzMjEyYWIzMzRiOTc) for an even richer experience.  
 
 &nbsp;  
 - - -
-&nbsp;
 
 ## Agriculture  
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana annual Cocoa Production since 1900">Ghana cocoa production<a>  
