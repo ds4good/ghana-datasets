@@ -39,7 +39,7 @@ With kind support from [dataniX](www.datanix.co.uk/blog)
 
   
 ## Healthcare 
-:red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana health care infrastructure">Ghana Hospitals Dataset<a>  
+:red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana health care infrastructure">Ghana Healthcare Facilities Dataset<a>  
 
 ## News dataset  
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Citi News stories from 2012">Citi News Dataset<a>  
