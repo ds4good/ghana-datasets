@@ -16,6 +16,7 @@ With kind support from [dataniX](www.datanix.co.uk/blog)
 
 &nbsp;  
 - - -
+&nbsp; 
 
 ## Agriculture  
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana annual Cocoa Production since 1900">Ghana cocoa production<a>  
@@ -54,7 +55,7 @@ With kind support from [dataniX](www.datanix.co.uk/blog)
 
 
 # Useful links
-- [dataniX](www.datanix.co.uk/blog) 
+- [dataniX](www.datanix.co.uk/blog)
 - [Kaggle](https://www.kaggle.com/datanix/datasets)
 - [Tableau](https://public.tableau.com/profile/datanix.ds4good#!/)
 - [IIPGH](https://www.iipgh.org/)
