@@ -58,6 +58,6 @@ With kind support from [dataniX](www.datanix.co.uk/blog)
 - [dataniX](www.datanix.co.uk/blog)
 - [Kaggle](https://www.kaggle.com/datanix/datasets)
 - [Tableau](https://public.tableau.com/profile/datanix.ds4good#!/)
-- [IIPGH](https://www.iipgh.org/)
+- [Institute of ICT Proffessionals Ghana](https://www.iipgh.org/)
 
    
