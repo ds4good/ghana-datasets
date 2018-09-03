@@ -32,14 +32,14 @@ With kind support from [dataniX](www.datanix.co.uk/blog)
   
 ## Government  
 :seedling:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana Parliamentry & Presidential election results from 1992">Ghana Election Dataset<a>  
-:large_blue_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana State of The Nation address from 2000">Ghana State of the Nation Address<a>  
+:large_blue_circle:<a href="https://www.kaggle.com/citizen-ds-ghana/sona-ghana/home" target ="_blank" title ="Ghana State of The Nation address from 2000">Ghana State of the Nation Address<a>  
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana Road accident fatalities and locations">Ghana Accident Dataset<a>   
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana crimes by location">Ghana Crime Dataset<a>  
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="The 2010 Ghana census">Ghana Census Dataset<a>   
 
   
 ## Healthcare 
-:red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Ghana health care infrastructure">Ghana Healthcare Facilities Dataset<a>  
+:seedling:<a href="https://www.kaggle.com/citizen-ds-ghana/health-facilities-gh/home" target ="_blank" title ="Ghana health care infrastructure">Ghana Healthcare Facilities Dataset<a>  
 
 ## News dataset  
 :red_circle:<a href="https://www.datanix.co.uk/blog" target ="_blank" title ="Citi News stories from 2012">Citi News Dataset<a>  
