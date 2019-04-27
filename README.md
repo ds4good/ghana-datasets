@@ -11,7 +11,7 @@ With kind support from [dataniX](www.datanix.co.uk/blog)
 ### How can I add to this list?  
 &nbsp;&nbsp;&nbsp;&nbsp; To add to this listing use this <a href="https://goo.gl/forms/EzSSfe1zxgt0AYLE3" target ="_blank" title ="Request new data to be listed">form<a>
 ### How can I make a corrections?
-&nbsp;&nbsp;&nbsp;&nbsp; simply **raise an issue** on github :point_up:.  
+&nbsp;&nbsp;&nbsp;&nbsp; simply **raise an issue** on [github](https://github.com/ds4good/ghana-datasets/issues) :point_up:.  
 #### Join our [slack forum](https://join.slack.com/t/ds4good/shared_invite/enQtNDE4NTkxMzI1NDQ2LWJkNDI0ZDEyODY5NDkyNjg3NWI1NmJkNTg0ZmM1MGI1ODUxNGY3MmNjNWVjNzBhMzNlODc3ZjE2YjVkYjFmM2Y) for an even richer experience.  
 
 &nbsp;  
